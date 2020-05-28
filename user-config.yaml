@@ -1,0 +1,17 @@
+- token: pds-g^KU_cSF-8QyC^tFearp0d3oFI7TrAC+QPgtik1GOgOJTlAg/sne8xkbI=
+  room_name: zjxlj
+  passwd: 123456
+  introduction: LiuZiRuiShaMao
+  adminlist:
+      - "旗鼓相当的对手"
+  caves: true
+  mods:
+      - "378160973"
+      - "367546858"
+      - "666155465"
+      - "1878212389"
+      - "362175979"
+      - "369596587"
+      - "375859599"
+  game_mode: survival
+  max_players: 6
